@@ -2,8 +2,8 @@
 <h2 align="center">Hi 👋, I'm</h2> <h2 align="center">Lamgarraj Mohamed (AI)</h2> <h2 align="center"> Student 🎓 and researcher🔍 of Artificial intelligence💻 and computer vision!📽</h2>
 
 <p align="center">
-  <img src="https://github.com/lmgrj/lmgrj/blob/main/lmgrj.jpeg" width="200" height="200" />
-  <img src="https://github.com/lmgrj/lmgrj/blob/main/linkedqr.jpg" width="500" height="300%" />
+  <img src="https://github.com/lmgrj/lmgrj/blob/main/lmgrj.jpeg" width="50" height="50" />
+
 </p>
 
 - 🔭 I’m currently working on **new approche for detecting and tracking objects (fishs) in underwater videos** in L3i laboratory of the La Rochelle university (France).
