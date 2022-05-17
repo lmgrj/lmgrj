@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi 👋, I'm</h2> <h2 align="center">Lamgarraj Mohamed (AI)</h2> <h2 align="center"> Student 🎓 and researcher🔍 of Artificial intelligence💻 and computer vision!📽</h2>
+<h2 align="center">Hi 👋, I'm Lamgarraj Mohamed (AI)</h2> <h2 align="center"> Student 🎓 and researcher🔍 of Artificial intelligence💻 and computer vision!📽</h2>
 
 <p align="center">
   <img src="https://github.com/lmgrj/lmgrj/blob/main/lmgrj.jpeg" width="50" height="50" />
