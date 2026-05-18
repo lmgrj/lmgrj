@@ -14,9 +14,14 @@
 
 - [Contact me!](https://github.com/lmgrj/lmgrj/issues)
 
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
+[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+
 ## My skills
 <p align="left">
-  
   <img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" alt="java" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
   <img src="https://img.icons8.com/dusk/64/000000/python.png" alt="python" width="50" height="50"/>
