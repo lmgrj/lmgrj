@@ -1,6 +1,6 @@
 
-<h2 align="center">Hi 👋, I'm Lamgarraj Mohamed (AI)</h2> <h2 align="center"> PHD Student 🎓 and AI researcher🔍  Artificial intelligence💻 and Data Sciences!📽</h2>
-
+<h2 align="center">Hi 👋, I'm Lamgarraj Mohamed</h2> <h2 align="center"> PHD Student 🎓 and AI researcher🔍  Artificial intelligence💻 and Data Sciences!📽</h2>
+<h3 align="center">Hit's been a while! time to do something different 😎 (AI)</h3>
 <p align="center">
   <img src="https://github.com/lmgrj/lmgrj/blob/main/lmgrj.jpeg" width="50" height="50" />
 
